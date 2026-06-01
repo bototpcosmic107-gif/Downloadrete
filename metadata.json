@@ -1,0 +1,6 @@
+{
+  "name": "TikTok Video Downloader",
+  "description": "Unduh video TikTok HD tanpa watermark dengan mudah dan cepat. Cukup tempel tautan video TikTok dan unduh secara otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
